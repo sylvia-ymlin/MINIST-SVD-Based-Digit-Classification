@@ -1,0 +1,1 @@
+"""MNIST SVD classifier project."""
